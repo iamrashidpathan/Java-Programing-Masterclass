@@ -50,7 +50,7 @@ class Car {
         System.out.println("Applying the breaks");
     }
 
-    // We will be overriding below class to display polymorphism.
+    // We will be overriding below method to display polymorphism.
     public String returnColor() {
         return "Red";
     }
