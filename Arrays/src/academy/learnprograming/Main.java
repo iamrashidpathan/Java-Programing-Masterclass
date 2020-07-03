@@ -21,7 +21,7 @@ public class Main {
         System.out.println("Average of entered numbers is "+getAverage(myIntegers));
     }
     
-    // getInteregs method takes intrger inputs from user and stores it in an array then returns the array.
+    // getIntegers method takes integers inputs from user and stores it in an array then returns the array.
     public static int[] getIntegers(int number) {
         System.out.println("Enter "+number+" Integer values.");
         int[] array = new int[number];
